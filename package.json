@@ -12,8 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "@types/dat.gui": "^0.7.5",
-    "acorn": "^7.2.0",
     "dat.gui": "^0.7.7",
+    "js-interpreter": "^2.2.0",
     "three": "^0.116.1",
     "three-trackballcontrols": "0.0.8",
     "three-trackballcontrols-ts": "^0.2.1",
